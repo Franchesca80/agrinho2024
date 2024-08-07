@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    }
+    
+    header {
+    background-color: #fcf802d8;
+    color: rgba(250, 227, 16, 0.986);
+    text-align: center;
+    padding: 1rem 0;
+    }
+    
+    header h1 {
+    text-align: center;
+    margin: 0;
+    align-items: center;
+    }
+    
+    nav ul {
+    list-style-type: none;
+    padding: 0;
+    }
+    
+    nav ul li {
+    display: inline;
+    margin-right: 20px;
+    }
+    
+    nav ul li a {
+    color: rgba(255, 142, 12, 0.932);
+    text-decoration: none;
+    }
+    
+    nav ul li a:hover {
+    text-decoration: underline;
+    }
+    
+    
+    main {
+    padding: 20px;
+    }
+    
+    section {
+    margin-bottom: 40px;
+    }
+    
+    section h2 {
+    color: #f87e0b;
+    }
+    
+    article {
+    margin-bottom: 20px;
+    }
+    
+    footer {
+    background-color: #333;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    }
+    
+    
+    body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    }
+    
+    header {
+    background-color: #0a0e0a;
+    color: rgb(253, 243, 243);
+    text-align: center;
+    padding: 1rem 0;
+    }
+    
+    header h1 {
+    margin: 0;
+    }
+    
+    nav ul {
+    list-style-type: none;
+    padding: 0;
+    }
+    
+    nav ul li {
+    display: inline;
+    margin-right: 20px;
+    }
+    
+    nav ul li a {
+    color: rgb(247, 242, 242);
+    text-decoration: none;
+    }
+    
+    nav ul li a:hover {
+    text-decoration: underline;
+    }
+    
+    main {
+    padding: 20px;
+    }
+    
+    section {
+    margin-bottom: 40px;
+    }
+    
+    section h2 {
+    color: #d65f19;
+    }
+    
+    article {
+    margin-bottom: 20px;
+    }
+    
+    footer {
+    background-color: #333;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%; 
+    }
